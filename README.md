@@ -1,1 +1,1 @@
-[![rae's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachel-ftw&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![rae's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachel-ftw&count_private=true&show_icons=true&theme=dracula&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
